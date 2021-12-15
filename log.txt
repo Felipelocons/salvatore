@@ -15,3 +15,4 @@
 0861. ♻️ chore: clean up unused files
 0155. ✨ feat: create admin dashboard
 0493. ✨ feat: add user authentication
+0047. 🎨 style: rename variables for clarity
