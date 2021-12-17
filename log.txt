@@ -16,3 +16,4 @@
 0155. ✨ feat: create admin dashboard
 0493. ✨ feat: add user authentication
 0047. 🎨 style: rename variables for clarity
+0740. 🐛 fix: resolve issue with date parsing
