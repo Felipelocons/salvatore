@@ -20,3 +20,4 @@
 0302. ✨ feat: implement quiz timer feature
 0165. 🎨 style: remove trailing whitespace
 0531. 🐛 fix: prevent crash on empty input
+0099. 🚀 perf: reduce image load time
