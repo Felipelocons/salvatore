@@ -21,3 +21,4 @@
 0165. 🎨 style: remove trailing whitespace
 0531. 🐛 fix: prevent crash on empty input
 0099. 🚀 perf: reduce image load time
+0052. 🎨 style: standardize quote style
