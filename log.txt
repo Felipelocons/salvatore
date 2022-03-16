@@ -26,3 +26,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0911. ✅ test: increase coverage on auth module
 0335. ♻️ chore: update .gitignore
+0393. 🚀 perf: lazy-load components
