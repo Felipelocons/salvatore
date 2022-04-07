@@ -31,3 +31,4 @@
 0104. 🎨 style: apply consistent indentation
 0526. ✨ feat: add user authentication
 0782. 📚 docs: improve code comments in utils
+0538. 🐛 fix: fix broken CSS in mobile view
