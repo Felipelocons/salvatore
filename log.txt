@@ -38,3 +38,4 @@
 0077. ♻️ chore: rename env.example
 0979. 🎨 style: standardize quote style
 0917. ✅ test: add integration test for /submit endpoint
+0076. 🎨 style: reformat files with black
