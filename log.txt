@@ -41,3 +41,4 @@
 0076. 🎨 style: reformat files with black
 0621. 🔧 refactor: clean up auth middleware
 0319. 🐛 fix: handle 500 error in quiz API
+0798. 🚀 perf: reduce image load time
