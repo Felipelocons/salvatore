@@ -47,3 +47,4 @@
 0438. ♻️ chore: bump dependencies
 0123. ✨ feat: implement quiz timer feature
 0048. 📚 docs: update README with setup steps
+0387. ✨ feat: enable dark mode toggle
