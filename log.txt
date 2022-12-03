@@ -51,3 +51,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0833. ✨ feat: add user authentication
 0108. 🎨 style: remove trailing whitespace
+0110. 🐛 fix: prevent crash on empty input
