@@ -57,3 +57,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0448. 🐛 fix: correct typo in registration form
 0446. 🎨 style: apply consistent indentation
+0492. 🎨 style: remove trailing whitespace
