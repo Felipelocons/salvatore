@@ -59,3 +59,4 @@
 0446. 🎨 style: apply consistent indentation
 0492. 🎨 style: remove trailing whitespace
 0482. ✨ feat: add export to CSV option
+0056. ♻️ chore: rename env.example
