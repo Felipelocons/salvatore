@@ -61,3 +61,4 @@
 0482. ✨ feat: add export to CSV option
 0056. ♻️ chore: rename env.example
 0783. 🐛 fix: handle 500 error in quiz API
+0889. 🚀 perf: lazy-load components
