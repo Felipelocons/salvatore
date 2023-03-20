@@ -66,3 +66,4 @@
 0509. ♻️ chore: bump dependencies
 0956. 📚 docs: clarify environment setup
 0964. ♻️ chore: clean up unused files
+0373. 📚 docs: document token refresh logic
