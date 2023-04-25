@@ -74,3 +74,4 @@
 0556. ✨ feat: support email verification
 0364. 🐛 fix: resolve issue with date parsing
 0153. ♻️ chore: rename env.example
+0965. 🎨 style: reformat files with black
