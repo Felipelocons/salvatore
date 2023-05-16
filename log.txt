@@ -78,3 +78,4 @@
 0150. 🎨 style: remove trailing whitespace
 0006. 🐛 fix: prevent crash on empty input
 0018. 🔧 refactor: organize models into subfolders
+0969. ✨ feat: create admin dashboard
