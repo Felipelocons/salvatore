@@ -94,3 +94,4 @@
 0632. 🎨 style: remove trailing whitespace
 0602. 🔧 refactor: remove redundant code blocks
 0914. ✅ test: test user registration edge cases
+0710. 🐛 fix: fix broken CSS in mobile view
