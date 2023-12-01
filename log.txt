@@ -102,3 +102,4 @@
 0635. 🎨 style: apply consistent indentation
 0238. 🎨 style: apply consistent indentation
 0611. ✅ test: test user registration edge cases
+0312. ✨ feat: add user authentication
