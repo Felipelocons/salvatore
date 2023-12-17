@@ -104,3 +104,4 @@
 0611. ✅ test: test user registration edge cases
 0312. ✨ feat: add user authentication
 0543. ✨ feat: support email verification
+0284. ✨ feat: implement quiz timer feature
