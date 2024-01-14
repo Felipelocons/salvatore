@@ -111,3 +111,4 @@
 0295. 🎨 style: remove trailing whitespace
 0112. ✨ feat: enable dark mode toggle
 0260. ✨ feat: create admin dashboard
+0478. 🐛 fix: resolve issue with date parsing
