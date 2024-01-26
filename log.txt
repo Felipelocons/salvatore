@@ -113,3 +113,4 @@
 0260. ✨ feat: create admin dashboard
 0478. 🐛 fix: resolve issue with date parsing
 0540. ♻️ chore: add GitHub actions badge
+0708. ✅ test: add integration test for /submit endpoint
