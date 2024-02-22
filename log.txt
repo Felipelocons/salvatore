@@ -121,3 +121,4 @@
 0694. 🎨 style: rename variables for clarity
 0128. ♻️ chore: rename env.example
 0659. 📚 docs: add API usage examples
+0977. 🔧 refactor: organize models into subfolders
