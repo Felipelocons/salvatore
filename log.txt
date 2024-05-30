@@ -141,3 +141,4 @@
 0902. ✨ feat: enable dark mode toggle
 0976. ✨ feat: implement quiz timer feature
 0148. 🔧 refactor: organize models into subfolders
+0390. 🎨 style: standardize quote style
