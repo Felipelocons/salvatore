@@ -146,3 +146,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0716. ✨ feat: implement quiz timer feature
 0324. 📚 docs: document token refresh logic
+0019. ✨ feat: enable dark mode toggle
