@@ -147,3 +147,4 @@
 0716. ✨ feat: implement quiz timer feature
 0324. 📚 docs: document token refresh logic
 0019. ✨ feat: enable dark mode toggle
+0932. ✅ test: add integration test for /submit endpoint
