@@ -160,3 +160,4 @@
 0287. 📚 docs: write FAQ section
 0589. 🐛 fix: fix broken CSS in mobile view
 0692. ✅ test: add integration test for /submit endpoint
+0008. 🚀 perf: reduce image load time
