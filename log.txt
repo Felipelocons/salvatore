@@ -178,3 +178,4 @@
 0858. ♻️ chore: clean up unused files
 0822. 🔧 refactor: remove redundant code blocks
 0240. 🔧 refactor: remove redundant code blocks
+0154. 🐛 fix: prevent crash on empty input
