@@ -179,3 +179,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0240. 🔧 refactor: remove redundant code blocks
 0154. 🐛 fix: prevent crash on empty input
+0428. 🐛 fix: fix null pointer exception on login
