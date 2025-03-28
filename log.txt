@@ -183,3 +183,4 @@
 0275. 🎨 style: standardize quote style
 0636. ✅ test: increase coverage on auth module
 0854. ♻️ chore: rename env.example
+0577. ✨ feat: implement quiz timer feature
