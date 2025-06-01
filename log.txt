@@ -190,3 +190,4 @@
 0377. ✨ feat: add user authentication
 0501. ✨ feat: add export to CSV option
 0029. 🚀 perf: lazy-load components
+0406. ✨ feat: add export to CSV option
