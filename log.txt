@@ -193,3 +193,4 @@
 0406. ✨ feat: add export to CSV option
 0070. ✨ feat: implement quiz timer feature
 0542. 🔧 refactor: organize models into subfolders
+0954. 🚀 perf: cache repeated calculations
