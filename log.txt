@@ -195,3 +195,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0954. 🚀 perf: cache repeated calculations
 0449. ✅ test: add unit test for quiz service
+0057. 🚀 perf: optimize database query for quiz results
